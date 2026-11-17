@@ -4,6 +4,6 @@ This app is 100% vibe coded with Gemini 3.6 Flash and Gemini 3.5 Flash Lite.
 
 This app has no ads or in-app purchases and collects no data.  
 
-Source code is available on GitHub: https://github.com/JS-HobbySoft/CameraAlignNG
+Also available in the Play Store 
 
 The source code is licensed under AGPL-3.0-or-later.
