@@ -4,6 +4,10 @@ This app is 100% vibe coded with Gemini 3.6 Flash and Gemini 3.5 Flash Lite.
 
 This app has no ads or in-app purchases and collects no data.  
 
-Also available in the Play Store 
+Also available in the Play Store: 
+
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="80">](https://play.google.com/store/apps/details?id=org.jshobbysoft.cameraalignng)
 
 The source code is licensed under AGPL-3.0-or-later.
